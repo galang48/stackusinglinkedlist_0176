@@ -27,6 +27,10 @@ public:
 	}
 
 
+	int push(int value)
+	{
+
+
 
 int main()
 {
