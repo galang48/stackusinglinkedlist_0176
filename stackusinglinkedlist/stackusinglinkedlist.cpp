@@ -52,7 +52,10 @@ public:
 	// peek/top operation: retrive the value of the topmost element withoust removing it
 	void peek()
 	{
-
+		if (top == NULL)
+		{
+			cout << "List is empty." << endl;
+		}
 int main()
 {
     
