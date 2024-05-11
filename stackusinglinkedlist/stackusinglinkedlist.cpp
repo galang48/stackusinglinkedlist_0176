@@ -15,6 +15,12 @@ public:
 	}
 };
 
+class stack
+{
+
+
+
+
 int main()
 {
     
